@@ -1,0 +1,7 @@
+welcome: Whatup, welcome to the Memory Game. I'm gonna say tree numbahs at ya for ya to repeat backwards. Yo up fo dis homie?
+
+round: Spin dis crank back to me in reverse ordah, {{numbers|join(' ')}}!
+
+win: Now dats how we rock it in da streets!!
+
+lose: Yo Homie, don't tax my gig so hard-core, cruster.
